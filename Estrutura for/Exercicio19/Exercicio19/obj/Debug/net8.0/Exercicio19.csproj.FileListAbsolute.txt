@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.exe
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.deps.json
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.dll
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.pdb
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.dll
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\refint\Exercicio19.dll
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.pdb
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio19\Exercicio19\obj\Debug\net8.0\ref\Exercicio19.dll

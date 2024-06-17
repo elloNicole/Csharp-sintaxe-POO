@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.exe
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.deps.json
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.dll
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\bin\Debug\net8.0\Exercicio6.pdb
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.dll
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\refint\Exercicio6.dll
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.pdb
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\Exercicio6.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio6\Exercicio6\obj\Debug\net8.0\ref\Exercicio6.dll

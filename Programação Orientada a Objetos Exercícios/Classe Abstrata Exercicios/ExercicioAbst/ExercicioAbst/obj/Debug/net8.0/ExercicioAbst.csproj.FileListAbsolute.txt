@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\bin\Debug\net8.0\ExercicioAbst.exe
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\bin\Debug\net8.0\ExercicioAbst.deps.json
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\bin\Debug\net8.0\ExercicioAbst.runtimeconfig.json
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\bin\Debug\net8.0\ExercicioAbst.dll
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\bin\Debug\net8.0\ExercicioAbst.pdb
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.AssemblyInfo.cs
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.dll
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\refint\ExercicioAbst.dll
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.pdb
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ExercicioAbst.genruntimeconfig.cache
+C:\temp\projetosIniciante\ExercicioAbst\ExercicioAbst\obj\Debug\net8.0\ref\ExercicioAbst.dll

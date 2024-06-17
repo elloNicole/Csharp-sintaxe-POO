@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\bin\Debug\net8.0\Exercicio20.exe
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\bin\Debug\net8.0\Exercicio20.deps.json
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\bin\Debug\net8.0\Exercicio20.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\bin\Debug\net8.0\Exercicio20.dll
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\bin\Debug\net8.0\Exercicio20.pdb
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.dll
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\refint\Exercicio20.dll
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.pdb
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\Exercicio20.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio20\Exercicio20\obj\Debug\net8.0\ref\Exercicio20.dll

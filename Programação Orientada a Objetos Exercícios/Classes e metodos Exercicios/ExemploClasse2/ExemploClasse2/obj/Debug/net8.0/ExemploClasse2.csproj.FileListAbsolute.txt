@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.AssemblyInfo.cs
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\bin\Debug\net8.0\ExemploClasse2.exe
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\bin\Debug\net8.0\ExemploClasse2.deps.json
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\bin\Debug\net8.0\ExemploClasse2.runtimeconfig.json
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\bin\Debug\net8.0\ExemploClasse2.dll
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\bin\Debug\net8.0\ExemploClasse2.pdb
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.dll
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\refint\ExemploClasse2.dll
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.pdb
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ExemploClasse2.genruntimeconfig.cache
+C:\temp\projetosIniciante\ExemploClasse2\ExemploClasse2\obj\Debug\net8.0\ref\ExemploClasse2.dll

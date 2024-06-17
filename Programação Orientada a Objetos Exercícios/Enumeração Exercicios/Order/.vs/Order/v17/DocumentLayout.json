@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|c:\\temp\\projetosiniciante\\order\\order\\order.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|solutionrelative:order\\order.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|c:\\temp\\projetosiniciante\\order\\order\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|solutionrelative:order\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|c:\\temp\\projetosiniciante\\order\\order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DE1ED-453D-4F4D-8B8D-F8CA581751AB}|Order\\Order.csproj|solutionrelative:order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.csproj",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Order\\Order\\Order.csproj",
+              "RelativeDocumentMoniker": "Order\\Order.csproj",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Order\\Order\\Order.csproj",
+              "RelativeToolTip": "Order\\Order.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T20:50:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Order\\Order\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Order\\Entities\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Order\\Order\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "Order\\Entities\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:49:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Order\\Order\\Program.cs",
+              "RelativeDocumentMoniker": "Order\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Order\\Order\\Program.cs",
+              "RelativeToolTip": "Order\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:46:50.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

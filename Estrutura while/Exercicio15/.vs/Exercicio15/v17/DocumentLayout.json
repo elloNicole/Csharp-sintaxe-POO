@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\Exercicio15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFFF74-55B0-447E-A542-7ED75CB2BDAF}|Exercicio15\\Exercicio15.csproj|c:\\temp\\projetosiniciante\\exercicio15\\exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CFFF74-55B0-447E-A542-7ED75CB2BDAF}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Exercicio15\\Exercicio15\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Exercicio15\\Exercicio15\\Program.cs",
+              "RelativeToolTip": "Exercicio15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:44:20.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

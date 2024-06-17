@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\bin\Debug\net8.0\ComposicaoEnum.exe
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\bin\Debug\net8.0\ComposicaoEnum.deps.json
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\bin\Debug\net8.0\ComposicaoEnum.runtimeconfig.json
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\bin\Debug\net8.0\ComposicaoEnum.dll
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\bin\Debug\net8.0\ComposicaoEnum.pdb
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.AssemblyInfo.cs
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.dll
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\refint\ComposicaoEnum.dll
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.pdb
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ComposicaoEnum.genruntimeconfig.cache
+C:\temp\projetosIniciante\ComposicaoEnum\ComposicaoEnum\obj\Debug\net8.0\ref\ComposicaoEnum.dll

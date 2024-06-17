@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\ExemploClasse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC29F505-5C91-49A2-B31C-F5D415C3EC7A}|ExemploClasse2\\ExemploClasse2.csproj|c:\\temp\\projetosiniciante\\exemploclasse2\\exemploclasse2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC29F505-5C91-49A2-B31C-F5D415C3EC7A}|ExemploClasse2\\ExemploClasse2.csproj|solutionrelative:exemploclasse2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC29F505-5C91-49A2-B31C-F5D415C3EC7A}|ExemploClasse2\\ExemploClasse2.csproj|c:\\temp\\projetosiniciante\\exemploclasse2\\exemploclasse2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC29F505-5C91-49A2-B31C-F5D415C3EC7A}|ExemploClasse2\\ExemploClasse2.csproj|solutionrelative:exemploclasse2\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ExemploClasse2\\ExemploClasse2\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExemploClasse2\\Funcionario.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ExemploClasse2\\ExemploClasse2\\Funcionario.cs",
+              "RelativeToolTip": "ExemploClasse2\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:54:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ExemploClasse2\\ExemploClasse2\\Program.cs",
+              "RelativeDocumentMoniker": "ExemploClasse2\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ExemploClasse2\\ExemploClasse2\\Program.cs",
+              "RelativeToolTip": "ExemploClasse2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:54:00.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

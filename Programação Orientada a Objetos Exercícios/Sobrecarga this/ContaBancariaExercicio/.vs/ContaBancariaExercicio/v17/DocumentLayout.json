@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\Programa\u00E7\u00E3o Orientada a Objetos Exerc\u00EDcios\\ContaBancariaExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6CAF07-1FDB-4D6D-B257-5F72E167DBEC}|ContaBancariaExercicio\\ContaBancariaExercicio.csproj|c:\\temp\\projetosiniciante\\programa\u00E7\u00E3o orientada a objetos exerc\u00EDcios\\contabancariaexercicio\\contabancariaexercicio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6CAF07-1FDB-4D6D-B257-5F72E167DBEC}|ContaBancariaExercicio\\ContaBancariaExercicio.csproj|solutionrelative:contabancariaexercicio\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6CAF07-1FDB-4D6D-B257-5F72E167DBEC}|ContaBancariaExercicio\\ContaBancariaExercicio.csproj|c:\\temp\\projetosiniciante\\programa\u00E7\u00E3o orientada a objetos exerc\u00EDcios\\contabancariaexercicio\\contabancariaexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6CAF07-1FDB-4D6D-B257-5F72E167DBEC}|ContaBancariaExercicio\\ContaBancariaExercicio.csproj|solutionrelative:contabancariaexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Programa\u00E7\u00E3o Orientada a Objetos Exerc\u00EDcios\\ContaBancariaExercicio\\ContaBancariaExercicio\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancariaExercicio\\ContaBancaria.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Programa\u00E7\u00E3o Orientada a Objetos Exerc\u00EDcios\\ContaBancariaExercicio\\ContaBancariaExercicio\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancariaExercicio\\ContaBancaria.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:40:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Programa\u00E7\u00E3o Orientada a Objetos Exerc\u00EDcios\\ContaBancariaExercicio\\ContaBancariaExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ContaBancariaExercicio\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\Programa\u00E7\u00E3o Orientada a Objetos Exerc\u00EDcios\\ContaBancariaExercicio\\ContaBancariaExercicio\\Program.cs",
+              "RelativeToolTip": "ContaBancariaExercicio\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:35:12.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

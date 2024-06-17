@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\bin\Debug\net8.0\Exercicio24.exe
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\bin\Debug\net8.0\Exercicio24.deps.json
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\bin\Debug\net8.0\Exercicio24.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\bin\Debug\net8.0\Exercicio24.dll
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\bin\Debug\net8.0\Exercicio24.pdb
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.dll
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\refint\Exercicio24.dll
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.pdb
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\Exercicio24.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio24\Exercicio24\obj\Debug\net8.0\ref\Exercicio24.dll

@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\bin\Debug\net8.0\ExercicioInterrup.exe
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\bin\Debug\net8.0\ExercicioInterrup.deps.json
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\bin\Debug\net8.0\ExercicioInterrup.runtimeconfig.json
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\bin\Debug\net8.0\ExercicioInterrup.dll
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\bin\Debug\net8.0\ExercicioInterrup.pdb
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.AssemblyInfo.cs
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.dll
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\refint\ExercicioInterrup.dll
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.pdb
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ExercicioInterrup.genruntimeconfig.cache
+C:\temp\projetosIniciante\ExercicioInterrup\ExercicioInterrup\obj\Debug\net8.0\ref\ExercicioInterrup.dll

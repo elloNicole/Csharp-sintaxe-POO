@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\bin\Debug\net8.0\FixacaoEstaticos.exe
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\bin\Debug\net8.0\FixacaoEstaticos.deps.json
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\bin\Debug\net8.0\FixacaoEstaticos.runtimeconfig.json
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\bin\Debug\net8.0\FixacaoEstaticos.dll
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\bin\Debug\net8.0\FixacaoEstaticos.pdb
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.AssemblyInfo.cs
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.dll
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\refint\FixacaoEstaticos.dll
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.pdb
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\FixacaoEstaticos.genruntimeconfig.cache
+C:\temp\projetosIniciante\FixacaoEstaticos\FixacaoEstaticos\obj\Debug\net8.0\ref\FixacaoEstaticos.dll

@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

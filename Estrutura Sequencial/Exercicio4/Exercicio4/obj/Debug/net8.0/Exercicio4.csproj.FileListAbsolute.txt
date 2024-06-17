@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.exe
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.deps.json
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.dll
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.pdb
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.dll
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\refint\Exercicio4.dll
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.pdb
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio4\Exercicio4\obj\Debug\net8.0\ref\Exercicio4.dll

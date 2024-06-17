@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercício11\Exercício11\bin\Debug\net8.0\Exercício11.exe
+C:\temp\projetosIniciante\Exercício11\Exercício11\bin\Debug\net8.0\Exercício11.deps.json
+C:\temp\projetosIniciante\Exercício11\Exercício11\bin\Debug\net8.0\Exercício11.runtimeconfig.json
+C:\temp\projetosIniciante\Exercício11\Exercício11\bin\Debug\net8.0\Exercício11.dll
+C:\temp\projetosIniciante\Exercício11\Exercício11\bin\Debug\net8.0\Exercício11.pdb
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.dll
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\refint\Exercício11.dll
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.pdb
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\Exercício11.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercício11\Exercício11\obj\Debug\net8.0\ref\Exercício11.dll

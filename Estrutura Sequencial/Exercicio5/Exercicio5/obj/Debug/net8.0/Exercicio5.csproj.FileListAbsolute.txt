@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\bin\Debug\net8.0\Exercicio5.exe
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\bin\Debug\net8.0\Exercicio5.deps.json
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\bin\Debug\net8.0\Exercicio5.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\bin\Debug\net8.0\Exercicio5.dll
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\bin\Debug\net8.0\Exercicio5.pdb
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.dll
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\refint\Exercicio5.dll
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.pdb
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\Exercicio5.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio5\Exercicio5\obj\Debug\net8.0\ref\Exercicio5.dll

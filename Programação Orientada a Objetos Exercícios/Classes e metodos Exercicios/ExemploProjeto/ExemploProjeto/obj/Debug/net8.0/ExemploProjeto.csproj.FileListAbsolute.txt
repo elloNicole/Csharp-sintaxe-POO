@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\bin\Debug\net8.0\ExemploProjeto.exe
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\bin\Debug\net8.0\ExemploProjeto.deps.json
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\bin\Debug\net8.0\ExemploProjeto.runtimeconfig.json
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\bin\Debug\net8.0\ExemploProjeto.dll
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\bin\Debug\net8.0\ExemploProjeto.pdb
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.AssemblyInfo.cs
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.dll
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\refint\ExemploProjeto.dll
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.pdb
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ExemploProjeto.genruntimeconfig.cache
+C:\temp\projetosIniciante\ExemploProjeto\ExemploProjeto\obj\Debug\net8.0\ref\ExemploProjeto.dll

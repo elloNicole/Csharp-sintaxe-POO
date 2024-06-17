@@ -1,0 +1,28 @@
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.exe
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.deps.json
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.runtimeconfig.json
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.pdb
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.AssemblyInfo.cs
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\refint\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.pdb
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.genruntimeconfig.cache
+C:\temp\projetosIniciante\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ref\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.exe
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.deps.json
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.runtimeconfig.json
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\bin\Debug\net8.0\ContaBancariaExercicio.pdb
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.AssemblyInfo.cs
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\refint\ContaBancariaExercicio.dll
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.pdb
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ContaBancariaExercicio.genruntimeconfig.cache
+C:\temp\projetosIniciante\Programação Orientada a Objetos Exercícios\ContaBancariaExercicio\ContaBancariaExercicio\obj\Debug\net8.0\ref\ContaBancariaExercicio.dll

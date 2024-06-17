@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\bin\Debug\net8.0\FixacaoMatriz.exe
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\bin\Debug\net8.0\FixacaoMatriz.deps.json
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\bin\Debug\net8.0\FixacaoMatriz.runtimeconfig.json
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\bin\Debug\net8.0\FixacaoMatriz.dll
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\bin\Debug\net8.0\FixacaoMatriz.pdb
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.AssemblyInfo.cs
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.dll
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\refint\FixacaoMatriz.dll
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.pdb
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\FixacaoMatriz.genruntimeconfig.cache
+C:\temp\projetosIniciante\FixacaoMatriz\FixacaoMatriz\obj\Debug\net8.0\ref\FixacaoMatriz.dll

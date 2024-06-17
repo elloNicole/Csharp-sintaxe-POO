@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\bin\Debug\net8.0\FixacaoVetor.exe
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\bin\Debug\net8.0\FixacaoVetor.deps.json
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\bin\Debug\net8.0\FixacaoVetor.runtimeconfig.json
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\bin\Debug\net8.0\FixacaoVetor.dll
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\bin\Debug\net8.0\FixacaoVetor.pdb
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.AssemblyInfo.cs
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.dll
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\refint\FixacaoVetor.dll
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.pdb
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\FixacaoVetor.genruntimeconfig.cache
+C:\temp\projetosIniciante\FixacaoVetor\FixacaoVetor\obj\Debug\net8.0\ref\FixacaoVetor.dll

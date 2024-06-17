@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\bin\Debug\net8.0\Exercicio13.exe
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\bin\Debug\net8.0\Exercicio13.deps.json
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\bin\Debug\net8.0\Exercicio13.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\bin\Debug\net8.0\Exercicio13.dll
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\bin\Debug\net8.0\Exercicio13.pdb
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.dll
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\refint\Exercicio13.dll
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.pdb
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\Exercicio13.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio13\Exercicio13\obj\Debug\net8.0\ref\Exercicio13.dll

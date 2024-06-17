@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\bin\Debug\net8.0\Exercicio23.exe
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\bin\Debug\net8.0\Exercicio23.deps.json
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\bin\Debug\net8.0\Exercicio23.runtimeconfig.json
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\bin\Debug\net8.0\Exercicio23.dll
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\bin\Debug\net8.0\Exercicio23.pdb
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.AssemblyInfo.cs
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.dll
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\refint\Exercicio23.dll
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.pdb
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\Exercicio23.genruntimeconfig.cache
+C:\temp\projetosIniciante\Exercicio23\Exercicio23\obj\Debug\net8.0\ref\Exercicio23.dll

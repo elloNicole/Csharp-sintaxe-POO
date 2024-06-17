@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|c:\\temp\\projetosiniciante\\composicaoenum\\composicaoenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAB3BE4-96D3-4715-8778-6661081A5C89}|ComposicaoEnum\\ComposicaoEnum.csproj|solutionrelative:composicaoenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Product.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:07:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Entities\\Client.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Client.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Entities\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:07:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:05:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Entities\\Order.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Order.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Entities\\Order.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:55:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Entities\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Entities\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:52:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Program.cs",
+              "RelativeDocumentMoniker": "ComposicaoEnum\\Program.cs",
+              "ToolTip": "C:\\temp\\projetosIniciante\\ComposicaoEnum\\ComposicaoEnum\\Program.cs",
+              "RelativeToolTip": "ComposicaoEnum\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:51:24.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

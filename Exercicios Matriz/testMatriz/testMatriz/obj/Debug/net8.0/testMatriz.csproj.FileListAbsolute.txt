@@ -1,0 +1,14 @@
+C:\temp\projetosIniciante\testMatriz\testMatriz\bin\Debug\net8.0\testMatriz.exe
+C:\temp\projetosIniciante\testMatriz\testMatriz\bin\Debug\net8.0\testMatriz.deps.json
+C:\temp\projetosIniciante\testMatriz\testMatriz\bin\Debug\net8.0\testMatriz.runtimeconfig.json
+C:\temp\projetosIniciante\testMatriz\testMatriz\bin\Debug\net8.0\testMatriz.dll
+C:\temp\projetosIniciante\testMatriz\testMatriz\bin\Debug\net8.0\testMatriz.pdb
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.AssemblyInfoInputs.cache
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.AssemblyInfo.cs
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.csproj.CoreCompileInputs.cache
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.dll
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\refint\testMatriz.dll
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.pdb
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\testMatriz.genruntimeconfig.cache
+C:\temp\projetosIniciante\testMatriz\testMatriz\obj\Debug\net8.0\ref\testMatriz.dll
