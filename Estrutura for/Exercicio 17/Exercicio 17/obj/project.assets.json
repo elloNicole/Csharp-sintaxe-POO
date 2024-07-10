@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\projetosIniciante\\Exercicio 17\\Exercicio 17\\Exercicio 17.csproj",
+      "projectUniqueName": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\Exercicio 17\\Exercicio 17.csproj",
       "projectName": "Exercicio 17",
-      "projectPath": "C:\\temp\\projetosIniciante\\Exercicio 17\\Exercicio 17\\Exercicio 17.csproj",
+      "projectPath": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\Exercicio 17\\Exercicio 17.csproj",
       "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\projetosIniciante\\Exercicio 17\\Exercicio 17\\obj\\",
+      "outputPath": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\Exercicio 17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\projetosIniciante\\Exercicio 17\\",
+  "WorkspaceRootPath": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F9E943-2A7D-4170-9200-627724B8A67D}|Exercicio 17\\Exercicio 17.csproj|c:\\temp\\projetosiniciante\\exercicio 17\\exercicio 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F9E943-2A7D-4170-9200-627724B8A67D}|Exercicio 17\\Exercicio 17.csproj|c:\\temp\\exercicioscsharp\\estrutura for\\exercicio 17\\exercicio 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F9E943-2A7D-4170-9200-627724B8A67D}|Exercicio 17\\Exercicio 17.csproj|solutionrelative:exercicio 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\projetosIniciante\\Exercicio 17\\Exercicio 17\\Program.cs",
+              "DocumentMoniker": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\Exercicio 17\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio 17\\Program.cs",
-              "ToolTip": "C:\\temp\\projetosIniciante\\Exercicio 17\\Exercicio 17\\Program.cs",
+              "ToolTip": "C:\\temp\\ExerciciosCsharp\\Estrutura for\\Exercicio 17\\Exercicio 17\\Program.cs",
               "RelativeToolTip": "Exercicio 17\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T20:45:34.954Z",
               "EditorCaption": ""
